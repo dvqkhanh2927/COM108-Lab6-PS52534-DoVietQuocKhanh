@@ -1,8 +1,8 @@
 # NHẬT KÝ THỰC HIỆN LAB 6 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
-* **Link Repository cá nhân:** 
+* **Họ và tên:** Đỗ Việt Quốc Khánh
+* **Mã sinh viên:** PS52534
+* **Link Repository cá nhân:** https://github.com/dvqkhanh2927/COM108-Lab6-PS52534-DoVietQuocKhanh.git
 
 > [!NOTE]
 > **HƯỚNG DẪN DÀNH CHO KỶ NGUYÊN AI:**  
@@ -12,9 +12,9 @@
 
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
 - Trạng thái: Chờ chấm
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Prompt hỏi AI (nếu có): Hướng dẫn viết và giải thích hàm lamMinTinHieu trong C.
+- Lỗi phát hiện qua Test (nếu có): Chưa có
+- Cách sửa / Bài học: Chờ kết quả phản hồi từ GitHub Actions
 
 ### Lần 2: Bài 1
 - Trạng thái: 
