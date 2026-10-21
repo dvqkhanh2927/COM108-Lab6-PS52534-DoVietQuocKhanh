@@ -27,10 +27,10 @@
 ---
 
 ### Lần 4: Bài 2 - Nén Sai Phân Dữ Liệu IoT (Delta Encoding)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: Chờ chấm
+- Prompt hỏi AI (nếu có): Giải thích và hướng dẫn viết hai hàm nenDelta và giaiNenDelta trong C theo yêu cầu Lab 6."
+- Lỗi phát hiện qua Test (nếu có): Chưa có
+- Cách sửa / Bài học: Đã bổ sung thuật toán nén bằng phép trừ hai phần tử liên tiếp và giải nén bằng phép cộng dồn. Chờ kết quả phản hồi từ GitHub Actions.
 
 ### Lần 5: Bài 2
 - Trạng thái: 
