@@ -11,7 +11,7 @@
 ---
 
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
-- Trạng thái: Chờ chấm
+- Trạng thái: 	PASS
 - Prompt hỏi AI (nếu có): Hướng dẫn viết và giải thích hàm lamMinTinHieu trong C.
 - Lỗi phát hiện qua Test (nếu có): Chưa có
 - Cách sửa / Bài học: Chờ kết quả phản hồi từ GitHub Actions
@@ -27,7 +27,7 @@
 ---
 
 ### Lần 4: Bài 2 - Nén Sai Phân Dữ Liệu IoT (Delta Encoding)
-- Trạng thái: Chờ chấm
+- Trạng thái: 	PASS
 - Prompt hỏi AI (nếu có): Giải thích và hướng dẫn viết hai hàm nenDelta và giaiNenDelta trong C theo yêu cầu Lab 6."
 - Lỗi phát hiện qua Test (nếu có): Chưa có
 - Cách sửa / Bài học: Đã bổ sung thuật toán nén bằng phép trừ hai phần tử liên tiếp và giải nén bằng phép cộng dồn. Chờ kết quả phản hồi từ GitHub Actions.
@@ -43,10 +43,10 @@
 ---
 
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: Chờ chấm
+- Prompt hỏi AI (nếu có): Giải thích và hướng dẫn viết hàm lamMoMaTran áp dụng bộ lọc làm mờ Box Blur 3x3 trong C.
+- Lỗi phát hiện qua Test (nếu có): Chưa có
+- Cách sửa / Bài học: Sử dụng vòng lặp để duyệt từng ô trong ma trận, tính tổng và đếm số ô lân cận hợp lệ, sau đó lấy trung bình bằng phép chia nguyên. Chờ kết quả phản hồi từ GitHub Actions.
 
 ### Lần 8: Bài 3
 - Trạng thái: 
