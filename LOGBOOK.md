@@ -43,7 +43,7 @@
 ---
 
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
-- Trạng thái: Chờ chấm
+- Trạng thái: PASS
 - Prompt hỏi AI (nếu có): Giải thích và hướng dẫn viết hàm lamMoMaTran áp dụng bộ lọc làm mờ Box Blur 3x3 trong C.
 - Lỗi phát hiện qua Test (nếu có): Chưa có
 - Cách sửa / Bài học: Sử dụng vòng lặp để duyệt từng ô trong ma trận, tính tổng và đếm số ô lân cận hợp lệ, sau đó lấy trung bình bằng phép chia nguyên. Chờ kết quả phản hồi từ GitHub Actions.
@@ -59,10 +59,10 @@
 ---
 
 ### Lần 10: Bài 4 - Radar Dò Điểm Nóng (Thermal Peak Detection)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: PASS
+- Prompt hỏi AI (nếu có): Giải thích và hướng dẫn viết hàm doDiemNong trong C để tìm các điểm nóng lớn hơn nghiêm ngặt các ô lân cận theo 4 hướng.
+- Lỗi phát hiện qua Test (nếu có): Chưa có
+- Cách sửa / Bài học: Duyệt ma trận, kiểm tra các ô lân cận trên, dưới, trái, phải nếu tồn tại; lưu tọa độ và nhiệt độ của điểm nóng vào các mảng kết quả. Chờ kết quả phản hồi từ GitHub Actions.
 
 ### Lần 11: Bài 4
 - Trạng thái: 

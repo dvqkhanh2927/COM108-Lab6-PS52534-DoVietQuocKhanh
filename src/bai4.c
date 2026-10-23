@@ -58,5 +58,32 @@ int doDiemNong(int a[][MAX_COLS], int row, int col, int hangPeak[], int cotPeak[
     // - Các ô ở góc/mép chỉ so sánh với các ô lân cận thực tế tồn tại.
     // - Tuyệt đối không dùng lệnh in ra màn hình bên trong hàm này!
     
-    return 0;
+int dem = 0;
+
+for (int i = 0; i < row; i++) {
+    for (int j = 0; j < col; j++) {
+        int laDiemNong = 1;
+
+        if (i > 0 && a[i][j] <= a[i - 1][j])
+            laDiemNong = 0;
+
+        if (i < row - 1 && a[i][j] <= a[i + 1][j])
+            laDiemNong = 0;
+
+        if (j > 0 && a[i][j] <= a[i][j - 1])
+            laDiemNong = 0;
+
+        if (j < col - 1 && a[i][j] <= a[i][j + 1])
+            laDiemNong = 0;
+
+        if (laDiemNong == 1) {
+            hangPeak[dem] = i;
+            cotPeak[dem] = j;
+            nhietDoPeak[dem] = a[i][j];
+            dem++;
+        }
+    }
+}
+
+return dem;
 }
